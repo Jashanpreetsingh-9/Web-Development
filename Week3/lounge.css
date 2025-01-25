@@ -1,0 +1,25 @@
+@media (max-width: 600px){
+body{font-size: 14px;}
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6em;
+}
+h1,h2{
+    color: #007e7e;z
+
+}
+h1{ font-size: 150%;}
+h2{ font-size: 130%;}
+p#guarantee { border-color: black; border-width: 1px; border-style: solid; background-color: #a7cece;
+padding: 25px;
+padding-left:  100px; ;
+margin: 30px;
+margin-right: 230px;
+background-image: url(background.gif);
+background-repeat: no-repeat;
+background-position: top left;
+border-style: dashed;
+border-color: white;
+border-width: 8px;
+
+}
